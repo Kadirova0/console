@@ -1,0 +1,15 @@
+C:\Users\fatim\source\repos\console app student\console app student\bin\Debug\net6.0\console app student.exe
+C:\Users\fatim\source\repos\console app student\console app student\bin\Debug\net6.0\console app student.deps.json
+C:\Users\fatim\source\repos\console app student\console app student\bin\Debug\net6.0\console app student.runtimeconfig.json
+C:\Users\fatim\source\repos\console app student\console app student\bin\Debug\net6.0\console app student.dll
+C:\Users\fatim\source\repos\console app student\console app student\bin\Debug\net6.0\console app student.pdb
+C:\Users\fatim\source\repos\console app student\console app student\obj\Debug\net6.0\console app student.csproj.AssemblyReference.cache
+C:\Users\fatim\source\repos\console app student\console app student\obj\Debug\net6.0\console app student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatim\source\repos\console app student\console app student\obj\Debug\net6.0\console app student.AssemblyInfoInputs.cache
+C:\Users\fatim\source\repos\console app student\console app student\obj\Debug\net6.0\console app student.AssemblyInfo.cs
+C:\Users\fatim\source\repos\console app student\console app student\obj\Debug\net6.0\console app student.csproj.CoreCompileInputs.cache
+C:\Users\fatim\source\repos\console app student\console app student\obj\Debug\net6.0\console app student.dll
+C:\Users\fatim\source\repos\console app student\console app student\obj\Debug\net6.0\refint\console app student.dll
+C:\Users\fatim\source\repos\console app student\console app student\obj\Debug\net6.0\console app student.pdb
+C:\Users\fatim\source\repos\console app student\console app student\obj\Debug\net6.0\console app student.genruntimeconfig.cache
+C:\Users\fatim\source\repos\console app student\console app student\obj\Debug\net6.0\ref\console app student.dll
